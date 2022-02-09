@@ -1,0 +1,21 @@
+.Container{
+    display: flex;
+    justify-content: center ;
+}
+.btn{
+    background-color: gray;
+    width: 100px;
+    color: white;
+    /* background: transparent; */
+    border: none;
+    padding: 10px;
+    border-radius: 40px;
+}
+.inp{
+    padding: 10px;
+    border-right: none;
+    border: transparent;
+    border-radius: 5px;
+    width: 250px;
+}
+
